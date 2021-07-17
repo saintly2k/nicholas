@@ -26,6 +26,7 @@ return array(
 
 // Front-end theme
 'frontend_theme' => 'default',
+// Available themes: 'default', 'simplicissimus', 'atomic-amnesia', 'masterplan',
  
 // Date format
 'date_format' => 'jS F Y',
